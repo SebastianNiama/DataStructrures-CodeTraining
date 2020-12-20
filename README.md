@@ -52,9 +52,9 @@ To compile and run any of the algorithms here, you need at least JDK version 8. 
    - [Depth First Search](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/Graphs)
 
 -   [Hash table](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable)
-   - [Example 1](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable1)
-   - [Example 2](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable2)
-   - [Example 3](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable3)
+    - [Example 1](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable1)
+    - [Example 2](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable2)
+    - [Example 3](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/HashTable3)
    
    
    
