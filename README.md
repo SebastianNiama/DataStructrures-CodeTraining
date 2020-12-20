@@ -8,4 +8,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 
 To compile and run any of the algorithms here, you need at least JDK version 8. Gradle can make things more convenient for you, but it is not required.
 
-- [Balanced Trees](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/ArrayList)
+- [Array List](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/ArrayList)
+
+- [AVL Tree]
+ - [Example 1](https://github.com/SebastianNiama/DataStructrures-CodeTraining/tree/main/DataSructures/src/main/java/AVL)
