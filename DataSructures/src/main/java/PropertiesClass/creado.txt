@@ -1,0 +1,4 @@
+#Javatpoint Properties Example
+#Sun Jun 07 18:26:05 COT 2020
+name=Sonoo Jaiswal
+email=sonoojaiswal@javatpoint.com
